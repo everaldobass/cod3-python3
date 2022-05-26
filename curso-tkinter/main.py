@@ -1,0 +1,1 @@
+from src.apptkinter.cadastro import cadastro
